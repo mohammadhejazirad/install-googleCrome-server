@@ -1,0 +1,13 @@
+{
+  "version": "156.0.8065.0",
+  "platform": "linux64",
+  "source_url": "https://storage.googleapis.com/chrome-for-testing-public/156.0.8065.0/linux64/chrome-linux64.zip",
+  "sha256": "d1bb273473f8f1d8b35f27e923c061a880f3141682204c9b8abb714cb7ccd75e",
+  "original_size": 198846274,
+  "split": true,
+  "parts": [
+    "chrome.zip.part-000",
+    "chrome.zip.part-001",
+    "chrome.zip.part-002"
+  ]
+}
