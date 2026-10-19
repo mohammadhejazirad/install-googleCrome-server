@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "latest_stable": "156.0.8074.0",
-  "generated_at": "2026-09-26T06:00:51Z",
+  "latest_stable": "158.0.8110.0",
+  "generated_at": "2026-10-19T07:47:46Z",
   "builds": [
     {
-      "version": "156.0.8074.0",
+      "version": "158.0.8110.0",
       "platform": "linux64",
-      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/156.0.8074.0/linux64/chrome-linux64.zip",
-      "sha256": "a198e1b50d9ec1b916012e4de92569c8e1deb8ecd117dd2281def8f3c77615f7",
-      "original_size": 200021047,
+      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/158.0.8110.0/linux64/chrome-linux64.zip",
+      "sha256": "5deb7136a8a6cebc148929ed550b38218fc5c963f46a57121da64cd8c1cd0849",
+      "original_size": 204117954,
       "split": true,
       "parts": [
         "chrome.zip.part-000",
@@ -17,11 +17,11 @@
       ]
     },
     {
-      "version": "156.0.8074.0",
+      "version": "158.0.8110.0",
       "platform": "linux-arm64",
-      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/156.0.8074.0/linux-arm64/chrome-linux-arm64.zip",
-      "sha256": "8ef707891cf4036ea34ffc5b2194e012834afe47c2d019c6f8659c8e238e1b6c",
-      "original_size": 199494832,
+      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/158.0.8110.0/linux-arm64/chrome-linux-arm64.zip",
+      "sha256": "e4a3989cbcab2c2406937dd4241a95e31477c51b93161fa3c24a7c43ebdc2eb7",
+      "original_size": 203776738,
       "split": true,
       "parts": [
         "chrome.zip.part-000",
