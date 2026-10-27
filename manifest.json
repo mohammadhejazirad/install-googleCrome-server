@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "latest_stable": "158.0.8110.0",
+  "generated_at": "2026-10-19T07:47:46Z",
+  "builds": [
+    {
+      "version": "158.0.8110.0",
+      "platform": "linux64",
+      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/158.0.8110.0/linux64/chrome-linux64.zip",
+      "sha256": "5deb7136a8a6cebc148929ed550b38218fc5c963f46a57121da64cd8c1cd0849",
+      "original_size": 204117954,
+      "split": true,
+      "parts": [
+        "chrome.zip.part-000",
+        "chrome.zip.part-001",
+        "chrome.zip.part-002"
+      ]
+    },
+    {
+      "version": "158.0.8110.0",
+      "platform": "linux-arm64",
+      "source_url": "https://storage.googleapis.com/chrome-for-testing-public/158.0.8110.0/linux-arm64/chrome-linux-arm64.zip",
+      "sha256": "e4a3989cbcab2c2406937dd4241a95e31477c51b93161fa3c24a7c43ebdc2eb7",
+      "original_size": 203776738,
+      "split": true,
+      "parts": [
+        "chrome.zip.part-000",
+        "chrome.zip.part-001",
+        "chrome.zip.part-002"
+      ]
+    }
+  ]
+}
